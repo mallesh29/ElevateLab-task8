@@ -14,10 +14,4 @@ A responsive blog layout built using **Bootstrap 5**. It features a navigation b
 - Bootstrap 5.3 CDN
 - Font Awesome (for icons)
 
-##  How to Use
-1. Download or clone the repository.
-2. Open `index.html` in your browser.
-3. Customize content as needed.
-
-##  Responsive
-Tested on multiple screen sizes using Chrome DevTools.
+ 
